@@ -37,7 +37,7 @@ turtlebot3_custom_nav/
 
 ## 🧠 Requirements
 
-- ROS Noetic / ROS Melodic  
+- ROS Noetic 
 - Gazebo 11+  
 - Python 3  
 - \`turtlebot3\` packages  
@@ -95,9 +95,4 @@ MS, Mechatronics and Cyber-Physical Systems
 
 ## 📄 License
 
-This project is only for the Educational purposes.
-
-# Now stage, commit, and push
-git add README.md
-git commit -m "Add README.md with full project description"
-git push
+This project is only for the Educational purposes

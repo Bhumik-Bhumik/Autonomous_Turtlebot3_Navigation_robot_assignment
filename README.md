@@ -82,14 +82,14 @@ Use RViz to view:
 - Real-time velocity vectors  
 
 ---
-
 ## 👨‍💻 Author
 
-**Bhumik Suresh Butani**
-Technische Hochschule Deggendorf
-MS, Mechatronics and Cyber-Physical System
-bhumik.butani@stud.th-deg.de
-GitHub: [@Bhumik-Bhumik](https://github.com/Bhumik-Bhumik)
+**Bhumik Suresh Butani**  
+Technische Hochschule Deggendorf  
+MS, Mechatronics and Cyber-Physical Systems  
+📧 bhumik.butani@stud.th-deg.de  
+🔗 GitHub: [@Bhumik-Bhumik](https://github.com/Bhumik-Bhumik)
+
 
 ---
 
